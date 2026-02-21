@@ -44,13 +44,13 @@
 
         <section class="flex flex-col md:flex-row-reverse items-center gap-12 mb-32" data-aos="fade-left">
             <div class="w-full md:w-1/2 overflow-hidden rounded-sm shadow-xl">
-                <img src="https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&q=80" alt="努力" class="hover:scale-110 transition duration-700">
+                <img src="images/禮物.jpg" alt="努力" class="hover:scale-110 transition duration-700">
             </div>
             <div class="w-full md:w-1/2 space-y-4">
                 <span class="text-stone-400 text-sm italic tracking-widest">CHAPTER 02</span>
                 <h2 class="text-3xl font-medium">相伴的日常</h2>
                 <p class="leading-loose text-stone-600">
-                    不管是茶園裡的忙碌，還是課後的咖啡廳討論，那些稀鬆平常的瞬間，現在回頭看都是最珍貴的寶藏。
+                    你知道你拿禮物給我我超級開心，我一定要好好照顧妳。
                 </p>
             </div>
         </section>
@@ -85,4 +85,5 @@
 </body>
 
 </html>
+
 

@@ -37,7 +37,7 @@
                 <span class="text-stone-400 text-sm italic tracking-widest">CHAPTER 01</span>
                 <h2 class="text-3xl font-medium">一切的開始</h2>
                 <p class="leading-loose text-stone-600">
-                    在這裡寫下你第一眼見到她的感受。也許是某個陽光午後，或是那次不經意的對視。這份回憶被保存在時光屋的第一個房間裡。
+                    沒想到我那個爛透的邀請會讓讓我們有後來的故事，第一次我約你去農民市集我想說試試看那就一起到處走走吧，結果沒想到我們就在一起了
                 </p>
             </div>
         </section>
@@ -83,4 +83,5 @@
         });
     </script>
 </body>
+
 </html>
